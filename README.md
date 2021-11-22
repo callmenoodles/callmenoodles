@@ -1,4 +1,5 @@
-### Hi there 👋
+### # Hi, I go by Noodles :bowl_with_spoon:
+
 
 <!--
 **callmenoodles/callmenoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
