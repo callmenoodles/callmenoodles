@@ -2,7 +2,7 @@
 ...and I build websites, games, and mobile apps.
 
 ## Languages and Frameworks
-React (JavaScript), Flutter (Dart), C, C++, C#, PHP, x86 Assembly, Python, Visual Basic, Scala, Java, R, MATLAB 
+React (JavaScript), TypeScript, Flutter (Dart), C, C++, C#, PHP, x86 Assembly, Python, Visual Basic, Scala, Java, R, MATLAB 
 
 <!--
 **callmenoodles/callmenoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
