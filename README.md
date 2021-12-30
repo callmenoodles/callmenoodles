@@ -1,5 +1,5 @@
 # Hello, I go by Noodles :bowl_with_spoon:
-I build websites, games, and mobile apps.
+I build a little bit of everything...
 
 ## Languages and Frameworks
 React (JavaScript), TypeScript, Flutter (Dart), C, C++, C#, PHP, x86 Assembly, Python, Visual Basic, Scala, Java, R, MATLAB 
