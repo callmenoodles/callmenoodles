@@ -1,9 +1,6 @@
 # Hello, I go by Noodles :bowl_with_spoon:
 ...and I build a little bit of everything.
 
-## GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmenoodles&count_private=true&show_icons=true&hide_rank=true&bg_color=000000&icon_color=ffbb00&title_color=ffbb00&text_color=ffffff&border_color=ffbb00&hide_title=true)
-
 ## Stack Overflow
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)](https://stackoverflow.com/users/5698355/noodles)
 
