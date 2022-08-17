@@ -1,8 +1,6 @@
 # :bowl_with_spoon: Hello, I go by Noodles 
 I build a little bit of everything and nowadays I am mostly focused on web development using React and Node.js. <br>Take note that some projects, such as what I built at university are private.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmenoodlestoo&theme=default) 
-
 ## :star: Preferred technologies / languages
 - React + Typescript
   - Create React App
@@ -30,4 +28,4 @@ HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electro
 - [Translation](https://translation.noodles.services)
 
 ### Stack Overflow
-![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)](https://stackoverflow.com/users/5698355/noodles)
+![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)
