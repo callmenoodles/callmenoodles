@@ -4,9 +4,7 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmenoodles&theme=tokyonight) 
 
 ## :star: Preferred technologies and languages
-- React + Typescript
-  - Create React App
-  - Next
+- React + Typescript + Next
 - Node + Express
 - Flutter + Dart
 - C/C++
