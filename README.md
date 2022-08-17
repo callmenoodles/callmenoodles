@@ -13,6 +13,7 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 - Go
 - Unity + C#
 - DigitalOcean
+- Linux
 
 ## :computer: Other
 HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
@@ -29,4 +30,4 @@ HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electro
 - [Translation](https://translation.noodles.services)
 
 ### Stack Overflow
-[![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)](https://stackoverflow.com/users/5698355/noodles)
+![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)](https://stackoverflow.com/users/5698355/noodles)
