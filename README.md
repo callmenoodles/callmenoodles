@@ -27,6 +27,7 @@ HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electro
 - Blockchain / Solidity
 - PostgreSQL
 - Amazon Web Services
+- Machine Learning
 
 ## :link: Links
 - [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
