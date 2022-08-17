@@ -23,7 +23,7 @@ HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electro
 - PostgreSQL
 - Amazon Web Services
 
-## Links
+## :link: Links
 - [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
 - [Portfolio](https://noodles.services)
 - [Translation](https://translation.noodles.services)
