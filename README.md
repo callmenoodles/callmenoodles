@@ -1,6 +1,8 @@
 # :bowl_with_spoon: Hello, I go by Noodles 
 I build a little bit of everything and nowadays I am mostly focused on web development using React and Node.js. <br>Take note that some projects, such as what I built at university are private.
 
+![](https://raw.githubusercontent.com/callmenoodles/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg)]
+
 ## :star: Preferred technologies / languages
 - React + Typescript
   - Create React App
