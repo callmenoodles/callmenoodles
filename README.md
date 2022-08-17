@@ -4,7 +4,7 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmenoodles&theme=tokyonight) 
 
 ## :briefcase: Professional experience (IT-related)
-- Full-Stack developer at [Innovatisering](https://innovatisering.nl).
+- Full-Stack developer at [Innovatisering](https://innovatisering.nl)
 - Freelance Developer
 
 ## :star: Preferred technologies and languages
