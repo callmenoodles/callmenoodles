@@ -26,6 +26,5 @@ HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electro
 - [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
 - [Portfolio](https://noodles.services)
 - [Translation](https://translation.noodles.services)
-
-### Stack Overflow
+- [Stack Overflow](https://stackoverflow.com/users/5698355/noodles)<br><br>
 ![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)
