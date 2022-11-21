@@ -16,12 +16,6 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 ## :computer: Other
 HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
 
-## :book: To-Learn or Learning (IT-related)
-- Blockchain / Solidity
-- PostgreSQL
-- Amazon Web Services
-- Machine Learning
-
 ## :link: Links
 - [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
 - [Portfolio](https://noodles.services)
