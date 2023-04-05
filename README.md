@@ -4,17 +4,15 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmenoodles&theme=tokyonight) 
 
 ## :star: Preferred technologies and languages
-- React + Typescript + Next
-- Node + Express
-- Flutter + Dart
-- C/C++
+- SvelteKit
+- Next.js
+- Node.js
+- Flutter
 - Go
-- Unity + C#
-- DigitalOcean
 - Linux
 
 ## :computer: Other
-HTML, CSS, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
+HTML, CSS, C, C++, C#, Unity, GDScript, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
 
 ## :link: Links
 - [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
