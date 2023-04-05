@@ -19,8 +19,9 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 HTML, CSS, C, C++, C#, Unity, GDScript, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
 
 ## :link: Links
-- [LinkedIn](https://www.linkedin.com/in/callmenoodles/)
-- [Portfolio](https://noodles.services)
-- [Translation](https://translation.noodles.services)
-- [Stack Overflow](https://stackoverflow.com/users/5698355/noodles)<br><br>
+[Portfolio](https://noodles.services)<br>
+[Translation](https://translation.noodles.services)<br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callmenoodles/)<br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5698355/noodles)<br><br>
 ![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)
+
