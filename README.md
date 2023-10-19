@@ -15,7 +15,7 @@ I build a little bit of everything and nowadays I am mostly focused on web devel
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ## :computer: Other
-HTML, CSS, C, C++, C#, Unity, GDScript, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Visual Basic, Lean.
+HTML, CSS, C, C++, C#, Unity, GDScript, Java, Markdown, PHP, R, Python, Rust, Tailwind, SASS, jQuery, Electron, Git, Nginx, Strapi, SQLite, MySQL, MongoDB, Firebase, Scala, MATLAB, x86 Assembly, Haskell, Visual Basic, Lean.
 
 ## :link: Links
 [Portfolio](https://noodles.services)<br>
