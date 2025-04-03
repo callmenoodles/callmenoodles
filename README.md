@@ -1,5 +1,5 @@
 # :wave: Hello, I go by Noodles 
-I build a little bit of everything and nowadays I am mostly focused on web development using React and Node.js. <br>Take note that some projects, such as what I built at university are private.
+I build a little bit of everything but I'm mostly doing web dev nowadays.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmenoodles&theme=tokyonight) 
 
