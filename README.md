@@ -23,12 +23,10 @@ My passion for video games led me down this rabbit hole...
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Other Languages <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/plus_2795.gif" width="28px" height="28px">
-x86 Assembly, C, C#, GDScript, Java, Markdown, PHP, R, Python, Scala, Rascal, MATLAB, Haskell, Visual Basic, Lean.
+C, C++, C#, GDScript, Haskell, Java, Lean, Markdown, MATLAB, PHP, Python, R, Rascal, Scala, Rust, Visual Basic, x86 Assembly
 
 ## Statistics <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/robot_1f916.gif" width="28px" height="28px">
 ### Stack Overflow
