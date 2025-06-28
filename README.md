@@ -10,7 +10,7 @@ My passion for video games led me down this rabbit hole...
 - :computer: [Freelance Developer](https://noodles.services)
 - :ghost: [Freelance Translator](https://translation.noodles.services)
 - :penguin: Linux Enthusiast
-- :joystick: Gamer & Game Developer
+- :video_game: Gamer & Game Developer
 - :mortar_board: MSc Software Engineering
 - :mortar_board: BSc Computer Science
 
