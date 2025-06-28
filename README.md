@@ -33,4 +33,4 @@ C, C++, C#, GDScript, Haskell, Java, Lean, Markdown, MATLAB, PHP, Python, R, Ras
 ![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)
 
 ### GitHub
-![](https://github-readme-stats.vercel.app/api?username=callmenoodles&bg_color=000000&title_color=ffbb00&icon_color=ffbb00&text_color=eeeeee&show_icons=true&hide_border=true&count_private=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=callmenoodles&bg_color=000000&title_color=ffbb00&icon_color=ffbb00&text_color=eeeeee&show_icons=true&hide_border=true&count_private=true&hide_title=true&rank_icon=github)
