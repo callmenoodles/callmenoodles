@@ -3,19 +3,12 @@ My passion for video games led me down this rabbit hole...
 - :computer: [Freelance Developer](https://noodles.services)
 - :speech_balloon: [Freelance Translator](https://translation.noodles.services)
 - :penguin: Linux Enthusiast
-- :video_game: Gamer & Game Developer
+- :video_game: Game Developer
 - :mortar_board: MSc Software Engineering
 - :mortar_board: BSc Computer Science
 
-## I mostly use...
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=callmenoodles&layout=donut&langs_count=5&hide_title=true" />
-</a>
-
 ## Statistics <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/robot_1f916.gif" width="28px" height="28px">
 ![](https://github-readme-stats.vercel.app/api?username=callmenoodles&bg_color=000000&title_color=ffbb00&icon_color=ffbb00&text_color=eeeeee&show_icons=true&hide_border=true&count_private=true&hide_title=true&rank_icon=github)
-
-
 
 ### Stack Overflow
 ![](https://github-readme-stackoverflow.vercel.app/?userID=5698355&theme=dark&layout=compact)
